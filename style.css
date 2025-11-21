@@ -1,0 +1,125 @@
+.col-12{
+    height: 8vh;
+    background-color: white;
+    display: flex;
+}
+
+.col-2{
+    height: 8vh;
+    display: flex;
+}
+
+.col-8{
+    height: 8vh;
+    display: flex;
+}
+
+.img{
+    width: 2.5vw;
+    margin-left: 1em;
+    margin-top: 0.2em;
+}
+
+.img1{
+    width: 6vw;
+    margin-left: 1.2em;
+    margin-top: 0.1em;
+}
+
+.search{
+    width: 40vw;
+    height: 6vh;
+    margin-top: 0.5em;
+    margin-left: 4em;
+}
+
+.span{
+    width: 3vw;
+}
+
+.micro{
+    width: 2vw;
+    margin-left: 0.3em;
+}
+
+.logo1{
+    width: 2vw;
+    margin-left: 1em;
+}
+
+.profile1{
+    width: 2.5vw;
+    height: 2.5vw;
+    margin-left: 1em;
+    margin-top: 0.6em;
+}
+
+.col-md-12{
+    height: 90vh;
+}
+
+.col-md-10{
+    height: 90vh;
+    margin-left: 8em;
+    display: flex;
+}
+
+.col-md-9{
+    height: 90vh;
+}
+
+.col-md-3{
+    height: 90vh;
+}
+
+.iframe{
+    width: 500px;
+}
+
+.video{
+    width: 62vw;
+}
+
+.col-lg-12{
+    height: 8vh;
+    display: flex;
+}
+
+.col-sm-12{
+    height: 20vh;
+    display: flex;
+}
+
+.col-lg-6{
+    height: 20vh;
+}
+
+.col-md-6{
+    height: 20vh;
+}
+
+.name{
+    width: 2.5vw;
+    height: 2.5vw;
+    margin-left: 1em;
+    margin-top: 0.6em;
+    border-radius: 1.25em;
+}
+
+.p10{
+    margin-left: 1em;
+    margin-top: 0.5em;
+}
+
+.p11{
+    margin-left: -3.4em;
+    margin-top: 2em;
+}
+
+.p12{
+    margin-top: -1em;
+}
+
+.p13{
+    margin-top: -1em;
+}
